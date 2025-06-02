@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front End and Backend ( I prefer this last one).
 - 💞️ I’m looking to collaborate on web projects as a junior, since I have learned to program and develop web applications recently.
 - 📫 How to reach me ...  on my LinkedIn page: https://www.linkedin.com/in/javier-checa-098465174/
-- 😄 Pronouns: he / him (masculine).
+- 😄 Pronouns: he / him.
 - ⚡ Fun fact: I like Psychology, Sci-Fi, Thrillers and similars.
 
 <!---
